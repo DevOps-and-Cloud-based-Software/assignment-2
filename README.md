@@ -1,6 +1,6 @@
 # DevOps and Cloud Based Software  
-
 ## Lab 02 Cloud Computing Foundation: Reporting Guidelines  
+University of Amsterdam
 
 ### Intended Learning Outcomes  
 - Understand the foundation of Cloud Computing  
