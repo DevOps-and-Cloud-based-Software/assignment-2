@@ -1,5 +1,5 @@
 # DevOps and Cloud Based Software  
-## Lab 02 Cloud Computing Foundation: Reporting Guidelines  
+## Lab 1-2: Cloud Computing Foundation: Reporting Guidelines  
 University of Amsterdam
 
 ### Intended Learning Outcomes  
@@ -15,7 +15,7 @@ This assignment is based on educational and computing resources provided by the 
 - Students are provided free accounts on the Canvas platform along with AWS educational lab sandbox access for course lessons and individual projects.  
 - Each student is granted **$100 USD credits** for the duration of the course.  
   - **Note:** Students are advised to monitor their costs carefully and regularly.  
-- The course includes **Knowledge Check** assignments per module, with minimum required successfully passed checks listed below.  
+- The course includes **Knowledge Check** assignments per module, with a minimum required successfully passed checks listed below.  
 
 ---
 
