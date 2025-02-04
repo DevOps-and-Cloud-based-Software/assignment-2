@@ -2,13 +2,13 @@
 ## Lab 1-2: Cloud Computing Foundation: Reporting Guidelines  
 University of Amsterdam
 
-### Intended Learning Outcomes  
+# Objectives  
 - Understand the foundation of Cloud Computing  
 - Learn from the best industry practices in cloud services provisioning and management  
 - Get practical experience working with cloud services using AWS as an example of a cloud service provider  
 
 ---
-
+# Background
 ## Learning Materials and Learning Platform  
 This assignment is based on educational and computing resources provided by the AWS Academy in their introductory course **Cloud Computing Foundation** on the AWS Academy Canvas platform. It contains lessons, learning materials, and a sandbox lab platform.
 
